@@ -1,1 +1,2 @@
-HQEsXMryLJZfe8msZ8HAnRgxXMDA3aU7EsGu97DaPmT7
+#!/bin/bash
+echo $(($TRUEKNOWLEDGE + 128))
